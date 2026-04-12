@@ -638,7 +638,7 @@ Embedded systems often communicate with other devices or external systems via in
 
 ##### 🔶 UART
 
-- [🎞️👶 Understanding UART](https://www.youtube.com/watch?v=sTHckUyxwp8)
+- [X] [🎞️👶 Understanding UART](https://www.youtube.com/watch?v=sTHckUyxwp8)
 - [🎞️ how does UART work??? (explained clearly)](https://www.youtube.com/watch?v=V6m2skVlsQI)
 - [🎞️ Basics of UART Communication | UART Frame Structure | RS 232 Basics | Part1](https://www.youtube.com/watch?v=JuvWbRhhpdI)
 - [🎞️ Understanding UART Communication Programming | UART Peripherals | Part 2](https://www.youtube.com/watch?v=QmjKRwgddxw)
